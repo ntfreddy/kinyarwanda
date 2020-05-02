@@ -1,3 +1,3 @@
-#How to import “text formatted” songs into VideoPsalm
+# How to import “text formatted” songs into VideoPsalm
 
-[[https://myvideopsalm.weebly.com/blog/how-to-import-text-formatted-songs-into-videopsalm]]
+https://myvideopsalm.weebly.com/blog/how-to-import-text-formatted-songs-into-videopsalm
