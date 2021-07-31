@@ -17,7 +17,9 @@
 	1. Click **Body** arrow
 	2. Set **Size** to **90**
 	3. Check **Wrap long lines automatically**
-	4. Set **Vertical alignment** to **Middle**
-	5. Click on an arrow left to **Colors**
-	6. Set **Shadow** to **Automatic**
-	7. Set **Shadow depth** to **30**
+	4. Set **Alignement** to **Centered**
+	5. Set **Vertical alignment** to **Middle**
+	6. Click on an arrow left to **Colors**
+	7. Set **Shadow** to **Automatic**
+	8. Set **Shadow depth** to **30**
+	9. Save 
